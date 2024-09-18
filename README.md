@@ -1,5 +1,3 @@
-# HotelBooking
-
 # Sistema de Reserva de Hotéis
 
 ## Descrição
